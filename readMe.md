@@ -19,7 +19,7 @@ python manage.py runserver
 swagger page is available at
 
 ```
-http://127.0.0.1/swagger
+http://127.0.0.1:8000/swagger
 ```
 all api endpoints can be tested from swagger page easily.
 ![image description](ScreenshotSwagger.png)
